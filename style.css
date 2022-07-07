@@ -1,0 +1,225 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    margin-top: 0%;
+}
+
+.background {
+    height: 100vh;
+    background-image: url(images/donation13.jpg);
+    background-size: cover;
+
+
+}
+
+h2 {
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.color {
+    color: aliceblue;
+    font-size: 60px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-top: 200px;
+
+}
+
+span {
+    display: block;
+}
+
+h4 {
+
+    font-size: 20px;
+}
+
+.tag {
+    color: aliceblue;
+    font-size: 20px;
+}
+
+.heading {
+    color: cadetblue;
+    text-align: center;
+}
+
+.flexiblity {
+    display: flex;
+    width: 40%;
+    margin-left: 19%;
+}
+
+.side {
+    border: 3px solid lightskyblue;
+    border-radius: 6px;
+    background-color: lightslategray;
+}
+
+.shadow {
+    box-shadow: 10px 10px 30px gray;
+    width: 40%;
+    margin: 5% 10px 20px 30px;
+    padding: 8% 8%;
+    font-weight: 800;
+}
+
+.uses {
+    display: flex;
+    width: 100%;
+    margin: 10px;
+    margin-left: 205px;
+    padding: 10px;
+
+}
+
+
+
+
+div {
+    text-align: center;
+}
+
+.box {
+    margin-top: 1px;
+}
+
+button {
+    padding: 20px 30px;
+    border-radius: 20px;
+    color: whitesmoke;
+    background-image: linear-gradient(rgb(0, 255, 242), rgb(0, 102, 128));
+    font-size: 15px;
+    font-weight: 900;
+}
+
+.input {
+    margin-top: 80px;
+    padding: 4px 300px;
+    margin-bottom: 15px;
+
+}
+
+.click {
+    margin: 0 43%;
+    margin-top: 1px;
+}
+
+.shade {
+    text-align: center;
+    margin-top: 200px;
+}
+
+.spacesetting {
+    padding-top: 100px;
+}
+
+
+
+.picture img {
+    width: 16%;
+    padding-bottom: 0.1%;
+}
+
+
+
+.para-style {
+    box-shadow: 10px 10px 30px gray;
+    width: 20%;
+    margin: 15px;
+    padding: 5px;
+    padding-bottom: 2px;
+    border-radius: 20px;
+}
+
+.first-colour {
+    background-color: lightseagreen;
+}
+
+.second-colour {
+    background-color: lightgray;
+}
+
+.third-colour {
+    background-color: lightsteelblue;
+}
+
+.SUPPORT {
+    display: flex;
+    width: 90%;
+    margin: 60px;
+    margin-bottom: 20px;
+    margin-left: 80px;
+}
+
+.support-title {
+    text-align: center;
+    margin-top: 150px;
+
+}
+
+.new-support {
+    display: flex;
+    width: 80%;
+    padding: 20px;
+    margin-left: 140px;
+
+}
+
+.support-design {
+    box-shadow: 10px 10px 30px gray;
+    margin: 20px;
+    border-radius: 30px;
+    padding: 10px;
+}
+
+.a {
+    background-color: lightcoral;
+}
+
+.b {
+    background-color: lightcyan;
+}
+
+.c {
+    background-color: lightgreen;
+}
+
+.d {
+    background-color: lightpink;
+}
+
+.e {
+    background-color: lightyellow;
+}
+
+.last {
+    margin-top: 100px;
+}
+
+.ending {
+    border: 2px solid;
+    margin: 70px 400px;
+    padding-right: 450px;
+    background-color: beige;
+}
+
+.full {
+    color: azure;
+    background-color: black;
+    padding-bottom: 100px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.done {
+    color: antiquewhite;
+    background-color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.finishing {
+    text-align: center;
+    font-size: 20px;
+}
